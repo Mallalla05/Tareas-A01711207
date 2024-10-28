@@ -7,7 +7,7 @@
 #ifndef FUNCIONES_H
 #define FUNCIONES_H
 
-//Se definen las clases de las funciones
+//Se definen las clases de las funciones segun el metodo de suma.
 class Funciones {
 public:
     int sumaIterativa(int);
