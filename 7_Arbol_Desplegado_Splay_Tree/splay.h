@@ -1,8 +1,7 @@
 /*
- *
  * Autor: Mariana Hernández Díaz
  * Matricula: A01711207
- * 04 / Nov / 2024
+ * Fecha: 04 / Nov / 2024
  */
 
 #ifndef Splay_H_
