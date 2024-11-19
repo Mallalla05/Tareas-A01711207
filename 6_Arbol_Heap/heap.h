@@ -1,9 +1,9 @@
 /*
- * heap.h
  *
- *  Created on: 20/10/2015
- *      Author:Mariana Hernández Díaz
- *      Matrícula: A01711207
+ * Creado por: Mariana Hernández Díaz
+ * Matricula: A01711207
+ * Fecha: 20 / 10 / 2024
+ *  
  */
 
 #ifndef HEAP_H_
