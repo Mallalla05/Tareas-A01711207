@@ -1,5 +1,4 @@
 /*
- *
  * Creado por: Mariana Hernández Díaz
  * Matricula: A01711207
  * Fecha: 20 / 10 / 2024
