@@ -10,4 +10,6 @@ los casos de prueba,
 los formatos de entrada y salida de algunas funciones.
 
 **Correcciones**
+
+
 De correcciones unicamente hice cambios en la tarea número 5 de BST especificamente en visit y ancestors ya que no corrian de forma correcta.
